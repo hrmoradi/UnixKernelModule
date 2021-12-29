@@ -1,0 +1,1 @@
+cmd_/home/hrmoradi/linux-4.14.14/MyModules/ProcModule/myJiffies.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/hrmoradi/linux-4.14.14/MyModules/ProcModule/myJiffies.ko /home/hrmoradi/linux-4.14.14/MyModules/ProcModule/myJiffies.o /home/hrmoradi/linux-4.14.14/MyModules/ProcModule/myJiffies.mod.o ;  true
